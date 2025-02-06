@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Blank++"
+rootProject.name = "FetchingFromFetch"
 include(":app")
  

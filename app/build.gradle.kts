@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.waynebloom.blank"
+    namespace = "com.waynebloom.fetchingfromfetch"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.waynebloom.blank"
+        applicationId = "com.waynebloom.fetchingfromfetch"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
